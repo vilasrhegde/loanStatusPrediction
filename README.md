@@ -8,7 +8,7 @@
 - Seaborn
 - Sklearn
 
-## Precess
+## Process
 1. Loading the modules and reading the csv file
 2. Checking and clearing the null values in the dataframe ```loan_data.dropna()```
 3. Label encoding using dictionary ```loan_data.replace({'Loan_Status':{'N':0,'Y':1}},inplace=True)```
