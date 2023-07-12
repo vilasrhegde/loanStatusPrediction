@@ -49,3 +49,4 @@ if(prediction[0] == 0):
 else:
   print('Loan Sanctioned')  
 ```
+![image](https://github.com/vilasrhegde/loanStatusPrediction/assets/85540091/35ff0f70-60fe-4bd8-bcf3-69865da04c47)
